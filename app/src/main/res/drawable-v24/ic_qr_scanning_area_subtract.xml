@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2020 Woolworths. All rights reserved.
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="91dp"
+    android:height="200dp"
+    android:viewportWidth="375"
+    android:viewportHeight="812">
+  <path
+      android:pathData="M375,0H0V812H375V0ZM110,183C100.059,183 92,191.059 92,201V356C92,365.941 100.059,374 110,374H265C274.941,374 283,365.941 283,356V201C283,191.059 274.941,183 265,183H110Z"
+      android:strokeAlpha="0.8"
+      android:fillColor="#38454F"
+      android:fillType="evenOdd"
+      android:fillAlpha="0.8"/>
+  <path
+      android:pathData="M114.693,183H108C99.163,183 92,190.163 92,199V206.166"
+      android:strokeWidth="4"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M260.307,183H267C275.837,183 283,190.163 283,199V206.166"
+      android:strokeWidth="4"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M114.693,374H108C99.163,374 92,366.837 92,358V350.834"
+      android:strokeWidth="4"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M260.307,374H267C275.837,374 283,366.837 283,358V350.834"
+      android:strokeWidth="4"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+</vector>
